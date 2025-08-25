@@ -1,4 +1,4 @@
-# string
+# python stores data as strings
 
 first_name = "khayam"
 food = "brisket"
