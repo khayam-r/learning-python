@@ -1,0 +1,90 @@
+# input() a function that makes the user type information
+
+# Exercise 1
+
+item = input("what item would you like to buy: ")
+price = float(input("what is the price: "))
+quantity = int(input("how many do you need: "))
+total = price * quantity
+
+print(f"You have bought {total} x {item}/s")
+print(F"your total is £{total}")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
